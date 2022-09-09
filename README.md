@@ -46,5 +46,7 @@ Which will start a server at `http://localhost:8080`, proxying API requests to t
 Screenshots of the deployed app
 
 ![image](https://user-images.githubusercontent.com/75318952/189351790-da6c7049-6600-4509-8710-5d5612c08d79.png)
-![image](https://user-images.githubusercontent.com/75318952/189351899-a56303f8-f9b6-419e-b2fb-dc352ef75c32.png)
+![image](https://user-images.githubusercontent.com/75318952/189352037-74fea332-81a7-4c23-a989-f93e2010e7f3.png)
+![image](https://user-images.githubusercontent.com/75318952/189352071-9a602425-5614-4873-9b0f-c2f0fcb7b8f5.png)
+
 
