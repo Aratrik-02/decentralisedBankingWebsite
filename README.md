@@ -43,7 +43,7 @@ npm start
 Which will start a server at `http://localhost:8080`, proxying API requests to the replica at port 8000.
 
 
-Screenshots of the deployed app
+# Screenshots of the deployed app
 
 ![image](https://user-images.githubusercontent.com/75318952/189351790-da6c7049-6600-4509-8710-5d5612c08d79.png)
 ![image](https://user-images.githubusercontent.com/75318952/189352037-74fea332-81a7-4c23-a989-f93e2010e7f3.png)
